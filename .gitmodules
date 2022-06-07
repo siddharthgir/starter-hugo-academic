@@ -1,0 +1,8 @@
+[submodule "siddharthgir.github.io"]
+	path = siddharthgir.github.io
+	url = https://github.com/siddharthgir/siddharthgir.github.io
+	branch = master
+[submodule "public"]
+	path = public
+	url = https://github.com/siddharthgir/siddharthgir.github.io
+	branch = master
