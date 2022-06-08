@@ -22,11 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+  - title: Software Engineering Intern
+    company: Meta
+    company_url: 'https://meta.com/'
+    company_logo: meta
+    location: Menlo Park, CA
+    date_start: '2022-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+  - title: Research Assistant
+    company: Intelligent Automation Lab, Carnegie Mellon University
+    company_url: 'https://labs.ri.cmu.edu/iam/'
+    company_logo: iam
+    location: Pittsburgh, PA
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -36,13 +49,41 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Software Engineering Intern
+    company: Omnipresent Technologies
+    company_url: 'http://www.omnipresenttech.com/'
+    company_logo: omni
+    location: Pune, India
+    date_start: '2020-09-01'
+    date_end: '2021-01-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Software Engineering Intern
+    company: Uber Advanced Technologies Group
+    company_url: 'https://aurora.tech/'
+    company_logo: uber
+    location: Pittsburgh, PA
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+
+  - title: Research Assistant
+    company: Human and Robot Partners Lab, Carnegie Mellon University
+    company_url: 'https://harp.ri.cmu.edu/'
+    company_logo: RI_small
+    location: Pittsburgh, PA
+    date_start: '2018-10-01'
+    date_end: '2019-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:

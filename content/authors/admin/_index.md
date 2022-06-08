@@ -28,6 +28,7 @@ education:
   courses:
     - course: B.S. in Computer Science (Concentration in Machine Learning)
       institution: Carnegie Mellon University
+      gpa: 3.95
       year: 2022
 
 # Social/Academic Networking
