@@ -68,6 +68,6 @@ I am a senior studying computer science at Carnegie Mellon University and a soft
 
 My research interests are in using reinforcement learning to learn generalizable and robust policies for robotic manipulation. 
 
-In my free time I enjoy sports, travelling to new places and trying new cuisines of food
+In my free time I enjoy sports, travelling to new places and trying new cuisines
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
