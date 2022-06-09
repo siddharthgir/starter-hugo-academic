@@ -29,12 +29,7 @@ experience:
     location: Menlo Park, CA
     date_start: '2022-06-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
   - title: Research Assistant
     company: Intelligent Automation Lab, Carnegie Mellon University
     company_url: 'https://labs.ri.cmu.edu/iam/'
@@ -43,11 +38,10 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Exploring the application of information compression in reinforcmenet learning algorithms for learning robust policies for robot manipulation tasks
+        * Investigated the use of disentangled representation learning for dynamics model to see if it leads to better generalization
+        * Developed a matrix‑based toy environment in OpenAI Gym to stress test causal reasoning algorithms
+
 
   - title: Software Engineering Intern
     company: Omnipresent Technologies
@@ -57,11 +51,8 @@ experience:
     date_start: '2020-09-01'
     date_end: '2021-01-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Led a team of three to design and implemented a fault tolerant controller for a quadcopter in simulation that prevents crashing after single motor failure.
+        * Implemented safety compliance software in the PX4 firmware to satisfy government regulations such as avoiding no‑fly zones and verifying digital certificates
         
   - title: Software Engineering Intern
     company: Uber Advanced Technologies Group
@@ -71,11 +62,8 @@ experience:
     date_start: '2020-05-01'
     date_end: '2020-08-01'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developed a tool in C++ that analyzes quantitative and visual analysis of the differences between inferred ground generated from point cloud data
+        * Analyzed pipeline that generates inferred ground from point cloud data to identify and eliminate unneccesary steps, optimizing for runtime and quality of output. 
 
   - title: Research Assistant
     company: Human and Robot Partners Lab, Carnegie Mellon University
@@ -84,8 +72,10 @@ experience:
     location: Pittsburgh, PA
     date_start: '2018-10-01'
     date_end: '2019-10-01'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |2-
+        * Built a restaurant simulator using V‑REP to use as a testing platform for robot waiters
+        * Designed and ran a Human‑Robot Interaction study that used eye gaze information from participants to predict their intent and use robot gestures to manipulate it. 
+        
 design:
   columns: '2'
 ---

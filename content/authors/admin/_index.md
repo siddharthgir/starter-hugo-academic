@@ -6,10 +6,12 @@ title: Siddharth Girdhar
 superuser: true
 
 # Role/position/tagline
-role: Software Engineering Intern at Meta
+role: Software Engineering Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Meta
+    url: https://www.meta.edu/
   - name: Carnegie Mellon University
     url: https://www.cmu.edu/
 
@@ -62,6 +64,10 @@ email: 'sgirdhar@andrew.cmu.edu'
 highlight_name: true
 ---
 
-I am a senior studying computer science at Carnegie Mellon University and a software engineering intern at Meta.  
+I am a senior studying computer science at Carnegie Mellon University and a software engineering intern at Meta. 
+
+My research interests are in using reinforcement learning to learn generalizable and robust policies for robotic manipulation. 
+
+In my free time I enjoy sports, travelling to new places and trying new cuisines of food
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
