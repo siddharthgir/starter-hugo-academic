@@ -11,7 +11,7 @@ role: Software Engineering Intern
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Meta
-    url: https://www.meta.edu/
+    url: https://www.meta.com/
   - name: Carnegie Mellon University
     url: https://www.cmu.edu/
 
